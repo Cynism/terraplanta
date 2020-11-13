@@ -2,10 +2,10 @@
   
     
         "post0": {
-            "title": "Testrmd",
-            "content": "#Références . https://ndpsoftware.com/git-cheatsheet.html#loc=index; . https://education.github.com/git-cheat-sheet-education.pdf . https://desktop.github.com/ . https://github.com/ .",
-            "url": "https://cynism.github.io/terraplanta/2020/11/13/testRmd.html",
-            "relUrl": "/2020/11/13/testRmd.html",
+            "title": "Test sur du markdown",
+            "content": "https://ndpsoftware.com/git-cheatsheet.html#loc=index; . https://education.github.com/git-cheat-sheet-education.pdf . https://desktop.github.com/ . https://github.com/ .",
+            "url": "https://cynism.github.io/terraplanta/markdown/2020/11/13/testRmd.html",
+            "relUrl": "/markdown/2020/11/13/testRmd.html",
             "date": " • Nov 13, 2020"
         }
         
