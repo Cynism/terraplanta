@@ -36,11 +36,25 @@ url: "https://Cynism.github.io" # the base hostname & protocol for your site, e.
 #
 baseurl: "/terraplanta" # the subpath of your site, e.g. "/blog".
 
+author:
+  name: Cynism
+  email: "afaligot-girardelli@etu.isara.fr"
+
 # Github and twitter are optional:
 minima:
   social_links:
-    twitter: fastdotai
+  #  twitter: jekyllrb
     github: Cynism
+  #  stackoverflow: "11111"
+  #  dribbble: jekyll
+  #  facebook: jekyll
+  #  flickr: jekyll
+  #  instagram: jekyll
+    linkedin: axel-faligot-girardelli
+  #  pinterest: jekyll
+  #  telegram: jekyll
+  #  microdotblog: jekyll
+  #  keybase: jekyll
 
 # Set this to true to get LaTeX math equation support
 use_math: true
@@ -58,7 +72,7 @@ annotations: false
 show_tags: true
 
 # Add your Google Analytics ID here if you have one and want to use it
-google_analytics: 
+google_analytics: G-V0KH5R680V
 
 exclude:
   - docker-compose.yml
