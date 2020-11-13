@@ -7,6 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Terra Planta
+email: afaligot-girardelli@etu.isara.fr
 description: Le partage des informations sur l'agriculture et l'agronomie
 github_username: Cynism
 # you can comment the below line out if your repo name is not different than your baseurl
