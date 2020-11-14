@@ -18,7 +18,7 @@ Insert the following code in the `head` section of your pages:
     <link rel="shortcut icon" href="/assets/images/favicon.ico">
     <meta name="apple-mobile-web-app-title" content="Terra Planta">
     <meta name="application-name" content="Terra Planta">
-    <meta name="msapplication-TileColor" content="#00a300">
+    <meta name="msapplication-TileColor" content="#2b5797">
     <meta name="msapplication-TileImage" content="/assets/images/mstile-144x144.png">
     <meta name="msapplication-config" content="/assets/images/browserconfig.xml">
     <meta name="theme-color" content="#ffffff">
